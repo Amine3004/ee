@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0x874954188675eE618140458E99410D4FeEb645D6",
+  "SCAN_LINK": "https://etherscan.io/token/0x874954188675eE618140458E99410D4FeEb645D6",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Imaginary Flowers",
+  "SYMBOL": "IF",
+  "MAX_SUPPLY": 2500,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 156243,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
